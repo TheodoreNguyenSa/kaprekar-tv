@@ -19,7 +19,7 @@ Discovered by Indian mathematician D. R. Kaprekar in 1949 — one of the most fa
 
 ## Install on Android TV / Google TV / Fire TV
 
-Option 1 — Downloader app by AFTVnews: enter code **(added after the first release)**
+Option 1 — Downloader app by AFTVnews: enter code **1031154**
 
 Option 2 — Download the APK from the [Releases](https://github.com/TheodoreNguyenSa/kaprekar-tv/releases) page and sideload it (Send Files to TV, USB, ...). You may need to allow "Install unknown apps" once.
 
